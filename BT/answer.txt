@@ -1,0 +1,19 @@
+1. liệt kê 10 thẻ inline:
+- span, a, i, strong, b, img, br, input, sub, textarea.
+
+2. liệt kê 10 thẻ block
+- li, div, section, header, footer, body, ul, table, ol, h1 -> h6, 
+
+3. ví dụ kết hợp giữa block và inline:
+<div>
+    <a href:'https://google.com'>Click me!</a>
+</div>
+
+4. Đặt tên cho UI: 
+action__new--view
+action--setting
+action--logout
+
+5. Đặt tên BEM:
+boy__head--handsome
+
